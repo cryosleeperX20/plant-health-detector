@@ -16,8 +16,8 @@ An AI-powered web app that detects whether a plant leaf is healthy or showing si
 ## 🖼️ Screenshots
 
 <p float="left">
-  <img src="./screenshots/1.png" width="300" />
-  <img src="./screenshots/2.png" width="300" />
+  <img src="./screenshots/1.png" width="500" />
+  <img src="./screenshots/2.png" width="500" />
 </p>
 
 ---
