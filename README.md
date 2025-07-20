@@ -13,13 +13,12 @@ An AI-powered web app that detects whether a plant leaf is healthy or showing si
 
 ---
 
-## 🖼️ Screenshots
+### 🖼️ Screenshots
 
-<p align="center">
-  <img src="./screenshots/1.png" alt="Screenshot 1" width="450"/>
-  &nbsp;&nbsp;
-  <img src="./screenshots/2.png" alt="Screenshot 2" width="450"/>
-</p>
+| Upload Leaf Image | Prediction Result |
+|-------------------|-------------------|
+| ![Upload View](./screenshots/1.png) | ![Result View](./screenshots/2.png) |
+
 
 ---
 
