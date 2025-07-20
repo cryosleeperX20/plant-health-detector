@@ -22,7 +22,7 @@ st.markdown("<h1 style='text-align: center; color: #2e7d32;'>🌿 Plant Leaf Hea
 st.markdown("<p style='text-align: center; font-size: 16px;'>Upload a leaf image to detect plant health using AI.</p>", unsafe_allow_html=True)
 
 # ---------------------- EXPLANATORY IMAGE --------------------------
-st.image("pilot.jpg.jpg", caption="🧭 Healthy (left) vs Anomalous (right) Leaf", width=600)
+st.image("pilot.jpg", caption="🧭 Healthy (left) vs Anomalous (right) Leaf", width=600)
 
 st.markdown("---")
 
