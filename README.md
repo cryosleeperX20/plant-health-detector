@@ -14,12 +14,8 @@ An AI-powered web app that detects whether a plant leaf is healthy or showing si
 ---
 
 ## 🖼️ Screenshots
-
-### 1. App Interface  
-![Screenshot 1](https://raw.githubusercontent.com/cryosleeperX20/Plant-Health-Detector/main/assets/1.png)
-
-### 2. AI Prediction Result  
-![Screenshot 2](https://raw.githubusercontent.com/cryosleeperX20/Plant-Health-Detector/main/assets/2.png)
+![Screenshot 1](./screenshots/1.png)
+![Screenshot 2](./screenshots/2.png)
 
 ---
 
